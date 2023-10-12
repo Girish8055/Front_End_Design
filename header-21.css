@@ -1,0 +1,249 @@
+.image-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1400px;
+  height: 810px;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.save-time-and {
+  position: absolute;
+  width: 100%;
+  top: 48%;
+  left: 0;
+  line-height: 26px;
+  display: inline-block;
+  opacity: 0.7;
+  mix-blend-mode: normal;
+}
+.share-export {
+  position: absolute;
+  top: calc(50% - 50px);
+  left: 0;
+  font-size: var(--heading-h5-lead-size);
+  line-height: 32px;
+  font-weight: 500;
+}
+.feature-2 {
+  position: absolute;
+  height: 12.35%;
+  width: 21.43%;
+  top: 71.98%;
+  right: 23.86%;
+  bottom: 15.68%;
+  left: 54.71%;
+  text-align: left;
+}
+.build-your-site {
+  position: absolute;
+  width: 100%;
+  top: 48.1%;
+  left: 0;
+  line-height: 26px;
+  display: inline-block;
+  opacity: 0.7;
+  mix-blend-mode: normal;
+}
+.drag-and-drop {
+  position: absolute;
+  top: calc(50% - 50.1px);
+  left: 0;
+  font-size: var(--heading-h5-lead-size);
+  line-height: 32px;
+  font-weight: 500;
+}
+.feature-1 {
+  position: absolute;
+  height: 12.37%;
+  width: 25%;
+  top: 71.98%;
+  right: 49%;
+  bottom: 15.65%;
+  left: 26%;
+  text-align: left;
+}
+.rectangle6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--socials-youtube);
+}
+.icon {
+  position: absolute;
+  top: calc(50% - 7px);
+  left: calc(50% - 6px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+}
+.icon-fill {
+  position: absolute;
+  height: 8.64%;
+  width: 5%;
+  top: 49.75%;
+  right: 47.5%;
+  bottom: 41.6%;
+  left: 47.5%;
+  font-size: var(--buttons-big-size);
+  font-family: var(--font-awesome);
+}
+.startup-framework-s {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: -1px;
+  line-height: 70px;
+  display: inline-block;
+}
+.text1 {
+  position: absolute;
+  height: 17.28%;
+  width: 43.43%;
+  top: 20.12%;
+  right: 28.29%;
+  bottom: 62.59%;
+  left: 28.29%;
+  font-size: var(--heading-h2-header-size);
+}
+.rectangle7 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--action-secondary);
+}
+.sign-up4 {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 28px);
+  line-height: 22px;
+  font-weight: 500;
+}
+.rectangle8,
+.small-fill {
+  position: absolute;
+  height: 100%;
+  width: 9.27%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 90.73%;
+}
+.rectangle8 {
+  width: 100%;
+  left: 0;
+  border-radius: var(--br-81xl);
+  border: 2px solid var(--colors-white);
+  box-sizing: border-box;
+  opacity: 0.3;
+}
+.sign-up5 {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 25px);
+  line-height: 22px;
+  font-weight: 500;
+}
+.small-white-outline1 {
+  position: absolute;
+  height: 100%;
+  width: 9.27%;
+  top: 0;
+  right: 11.33%;
+  bottom: 0;
+  left: 79.4%;
+}
+.get-the-app {
+  position: absolute;
+  left: 0;
+}
+.about1,
+.features1,
+.get-the-app {
+  top: calc(50% - 11px);
+  line-height: 22px;
+  font-weight: 500;
+}
+.features1 {
+  position: absolute;
+  left: 30.03%;
+}
+.about1 {
+  left: 61.66%;
+}
+.about1,
+.faq,
+.menu2 {
+  position: absolute;
+}
+.faq {
+  top: calc(50% - 11px);
+  left: 86.58%;
+  line-height: 22px;
+  font-weight: 500;
+}
+.menu2 {
+  width: 32.23%;
+  top: calc(50% - 9px);
+  right: 33.78%;
+  left: 33.99%;
+  height: 22px;
+  text-align: left;
+}
+.startup-32 {
+  position: absolute;
+  top: -6px;
+  left: 2px;
+  letter-spacing: -0.29px;
+}
+.white2,
+.white3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.white2 {
+  height: 47.5%;
+  width: 11.43%;
+  top: 27.5%;
+  right: 88.57%;
+  bottom: 25%;
+  font-size: var(--font-size-5xl);
+}
+.header-menu2 {
+  position: absolute;
+  height: 4.94%;
+  width: 69.36%;
+  top: 6.05%;
+  right: 15.36%;
+  bottom: 89.01%;
+  left: 15.29%;
+}
+.header-21 {
+  position: relative;
+  background-color: var(--background-dark);
+  width: 100%;
+  height: 810px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--buttons-small-size);
+  color: var(--colors-white);
+  font-family: var(--text-label);
+}
